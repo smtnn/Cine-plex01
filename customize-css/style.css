@@ -1,0 +1,37 @@
+.carousel-customize{
+    margin-top: 0.8%;
+    /* margin-top: 5rem; */
+}
+#movie-list{
+    /* height: 95vh; */
+    margin-top: 4%;
+}
+
+/* .runingMovies{
+    margin-top: 5%;
+} */
+/* .runingMovies h1{
+    margin-top: 10%;
+}
+.carousel-cus{
+    margin-top: 15%;
+} */
+
+/* #about{
+    height: 100vh;
+} */
+#about img{
+    border-radius: 1.5%;
+    /* box-shadow: 2px 6px 8px 0 rgba(7, 7, 8, 0.18); */
+}
+#contact img{
+    width: 150px; /* Adjust width and height as needed */
+    height: 150px;
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; 
+}
+/* @media screen and (min-width: 750px) {
+    .carousel-customize {
+        margin-top: 4.45%;
+    }
+} */
